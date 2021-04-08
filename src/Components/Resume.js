@@ -58,13 +58,13 @@ class Resume extends Component {
         <div className="row education">
           <div className="three columns header-col">
             <h1>
-              <span>Education</span>
+              Basics of Computer Science
             </h1>
           </div>
 
           <div className="nine columns main-col">
             <div className="row item">
-              <div className="twelve columns">{education}</div>
+              <div className="twelve columns">Learn about the basics of programming and how computers represent data using the binary coding system. Learn about bits, bytes and how a computer converts real world data in the binary format. Understand the different types of variables that are used in programming.</div>
             </div>
           </div>
         </div>
@@ -72,22 +72,42 @@ class Resume extends Component {
         <div className="row work">
           <div className="three columns header-col">
             <h1>
-              <span>Work</span>
+              Data Structures
             </h1>
           </div>
 
-          <div className="nine columns main-col">{work}</div>
+          <div className="nine columns main-col">Learn about about different data structures like Arrays, Sets, Dictionaries and Hashmaps that are commonly used in programming. These data structures are essential in building real world applications and websites.</div>
+        </div>
+
+        <div className="row work">
+          <div className="three columns header-col">
+            <h1>
+              Object Oriented Programming
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">Learn about Object-Oriented Programming (OOPS) concepts that works on the principles of abstraction, encapsulation, inheritance, and polymorphism. It will help you to create objects that contain methods to handle those objects. The basic concept of OOPs is to create objects, re-use them throughout the program, and manipulate these objects to get results. OOPS is widely used in programming and learning these concepts will be very beneficial in your journey.</div>
+        </div>
+
+        <div className="row work">
+          <div className="three columns header-col">
+            <h1>
+              Large Scale websites and applications
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">Learn Web Development by building websites and games using HTML, CSS, Javascript. Also get an in depth understanding of the popular frameworks used for building large scale projects and how to use tools like Github to manage and host your projects.</div>
         </div>
 
         <div className="row skill">
           <div className="three columns header-col">
             <h1>
-              <span>Skills</span>
+             Languages you will learn
             </h1>
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
+            <p>Learn the in demand languages of the industry that will give you a jumpstart in the world of programming</p>
 
             <div className="bars">
               <ul className="skills">{skills}</ul>

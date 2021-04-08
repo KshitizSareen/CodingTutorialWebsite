@@ -15,20 +15,12 @@ class Footer extends Component {
     });
 
     return (
+      <section id="footer">
       <footer>
         <div className="row">
           <div className="twelve columns">
+          <p style={{color: 'white',alignSelf: 'center',fontSize: 20}}>Phone Number: +256706121515</p>
             <ul className="social-links">{networks}</ul>
-
-            <ul className="copyright">
-              <li>&copy; Copyright 2021 Nordic Giant</li>
-              <li>
-                Design by{" "}
-                <a title="Styleshout" href="http://www.styleshout.com/">
-                  Styleshout
-                </a>
-              </li>
-            </ul>
           </div>
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">
@@ -37,6 +29,7 @@ class Footer extends Component {
           </div>
         </div>
       </footer>
+      </section>
     );
   }
 }
