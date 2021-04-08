@@ -1,12 +1,12 @@
 {
   "main": {
-    "name":"Coding Lessons With Kshitiz",
-    "description":"Embark on your programming journey with me and learn to build applications that can help them keep up with the IT boom our world is witnessing today",
+    "name":"Coding Lessons With Kshitiz Sareen",
+    "description":"Embark on your programming journey with me and learn to build websites and applications that will give you a jumpstart to the IT boom our world is witnessing today",
     "image":"profilepic.jpg",
-    "bio":"I am software engineer who currently works in Synoptek. Due to Work From Home I am currently staying in Uganda. During my stay in Uganda I have realized the passion of multiple students to learn programming that can help them build websites and applications that can benefit them in the future.",
+    "bio":"I am software engineer who currently works in Synoptek. I finished my Bacheclors in Computer Science last year from DAIICT, which is a reputed university in India. I want to teach programming because I believe programming will be one of the most demanding skills of the 21st century.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "kshitizsareen709@gmail.com",
-    "phone": "+256706121515",
+    "phone": "+256706121515,",
     "github":"https://github.com/KshitizSareen",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
